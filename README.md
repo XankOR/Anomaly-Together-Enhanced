@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Баннер: положи изображение размером 1920×500 в папку screenshots и укажи его имя ниже. -->
+<img src="screenshots/banner.png" alt="Anomaly Together Enhanced banner" width="100%">
+
 # ☢️ ANOMALY TOGETHER ENHANCED
 
 ### Расширение возможностей совместной игры в S.T.A.L.K.E.R. Anomaly
@@ -8,7 +11,6 @@
 
 [![Game](https://img.shields.io/badge/Game-S.T.A.L.K.E.R.%20Anomaly-8b7355?style=for-the-badge)](https://www.moddb.com/mods/stalker-anomaly)
 [![Required](https://img.shields.io/badge/Required-Anomaly%20Together-557755?style=for-the-badge)](https://discord.com/invite/mp-together)
-[![Author](https://img.shields.io/badge/Author-XankOR-7a9e7e?style=for-the-badge)](https://github.com/)
 
 </div>
 
@@ -67,14 +69,22 @@ Anomaly Together Enhanced позволяет передавать деньги �
 - **S.T.A.L.K.E.R. Anomaly**
 - **Оригинальный Anomaly Together** — обязательная зависимость.
 
-### Установка
+### Установка через Mod Organizer 2
 
-1. Установите и настройте оригинальный Anomaly Together.
-2. Скачайте файлы Anomaly Together Enhanced из репозитория.
-3. Установите модификацию способом, указанным в инструкциях к её релизу.
-4. Убедитесь, что версии основного мода и расширения совместимы.
+1. Установите и настройте оригинальный **Anomaly Together**.
+2. Установите **Anomaly Together Enhanced** как отдельный мод в Mod Organizer 2.
+3. В левой панели Mod Organizer 2 разместите **Anomaly Together Enhanced ниже Anomaly Together**, чтобы у Enhanced был **более высокий приоритет перезаписи файлов**.
+4. Убедитесь, что оба мода включены, затем запустите игру привычным способом.
 
-*Подробные инструкции по установке и дополнительные требования можно добавить сюда по мере подготовки релиза.*
+<div align="center">
+  <img src="screenshots/mod-order.png" alt="Порядок модов в Mod Organizer 2: Anomaly Together Enhanced должен иметь более высокий приоритет, чем Anomaly Together" width="100%">
+  <br>
+  <em>Пример правильного порядка модов в Mod Organizer 2: Anomaly Together Enhanced расположен ниже Anomaly Together и имеет более высокий приоритет.</em>
+</div>
+
+> **Важно:** в Mod Organizer 2 моды, расположенные ниже в левой панели, имеют приоритет при перезаписи конфликтующих файлов. Поэтому **Anomaly Together Enhanced должен находиться ниже Anomaly Together**.
+
+---
 
 ## 🔗 Оригинальный Anomaly Together
 
@@ -84,13 +94,11 @@ Anomaly Together Enhanced предназначен **исключительно 
 
 Совместимость с другими модификациями, изменяющими те же игровые механики или элементы интерфейса, не гарантируется и может зависеть от используемых версий.
 
-## 👤 Авторство
+---
 
-**Автор расширения: XankOR**
+## 📝 Примечание
 
-Anomaly Together Enhanced — авторская модификация, расширяющая функциональность оригинального Anomaly Together. Оригинальный Anomaly Together является отдельным проектом и не принадлежит автору этого расширения, если иное не указано его правообладателями.
-
-Права на S.T.A.L.K.E.R., оригинальный Anomaly Together и другие сторонние материалы принадлежат соответствующим правообладателям.
+**P.S.** Аддон тестировался на сборке **S.T.A.L.K.E.R. Anomaly G.A.M.M.A.** Это не гарантирует совместимость со всеми версиями игры, сборками или наборами модификаций.
 
 ---
 
