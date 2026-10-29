@@ -5,7 +5,7 @@
 ### Расширение возможностей совместной игры в S.T.A.L.K.E.R. Anomaly
 
 **Больше возможностей. Больше взаимодействия. Больше совместных приключений в Зоне.**
-
+<img src="images/Downed1.png" alt="Anomaly Together Enhanced" width="100%">
 [![Game](https://img.shields.io/badge/Game-S.T.A.L.K.E.R.%20Anomaly-8b7355?style=for-the-badge)](https://www.moddb.com/mods/stalker-anomaly)
 [![Base Mod](https://img.shields.io/badge/Required-Anomaly%20Together-557755?style=for-the-badge)](https://discord.com/invite/mp-together)
 [![Author](https://img.shields.io/badge/Author-XankOR-7a9e7e?style=for-the-badge)](#-авторство)
